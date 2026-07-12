@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project name="Quallenauge/android_device_realme_lunaa" path="device/realme/lunaa" revision="lineage-23.2" remote="github" />
-  <project name="Quallenauge/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="lineage-23.2" remote="github" />
+  <project name="pjgowtham/android_device_realme_lunaa" path="device/realme/lunaa" revision="lineage-23.2" remote="github" />
+  <project name="pjgowtham/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="lineage-23.2" remote="github" />
   <project name="Quallenauge/android_kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="lineage-23-base-lunaa-rebase-qualle" remote="github" />
   <project name="pjgowtham/android_hardware_oplus" path="hardware/oplus" revision="lineage-23.2" remote="github" />
   <project name="mvimal2607/vendor_realme_lunaa" path="vendor/realme/lunaa" revision="sixteen" remote="github" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-23.2" remote="github" />
+  <project name="mvimal2607/vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="sixteen" remote="github" />
 
 </manifest>
