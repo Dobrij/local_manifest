@@ -5,7 +5,6 @@
   <project name="pjgowtham/android_device_realme_lunaa" path="device/realme/lunaa" revision="lineage-23.2" remote="github" />
   <project name="pjgowtham/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="lineage-23.2" remote="github" />
   <project name="Theleafir1/android_kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="lineage-23-base-lunaa-rebase-qualle" remote="github" />
-  <project name="pjgowtham/android_hardware_oplus" path="hardware/oplus" revision="lineage-23.2" remote="github" />
   <project name="pjgowtham/proprietary_vendor_realme_lunaa" path="vendor/realme/lunaa" revision="lineage-23.2" remote="gitlab" />
   <project name="pjgowtham/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="lineage-23.2" remote="gitlab" />
 	
