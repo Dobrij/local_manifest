@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project name="Dobrij/device_realme_lunaa" path="device/realme/lunaa" revision="sixteen" remote="github" />
+  <project name="mvimal2607/device_realme_lunaa" path="device/realme/lunaa" revision="sixteen" remote="github" />
   <project name="mvimal2607/device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="sixteen" remote="github" />
   <project name="mvimal2607/kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="sixteen" remote="github" />
   <project name="mvimal2607/hardware_oplus" path="hardware/oplus" revision="sixteen" remote="github" />
